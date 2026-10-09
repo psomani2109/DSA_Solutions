@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 7 / 150 (4.7%)
+- **Completed:** 8 / 150 (5.3%)
 
 ---
 
@@ -157,7 +157,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Gas Station
 - [ ] Hand of Straights
 - [ ] Merge Triplets to Form Target Triplet
-- [ ] Partition Labels
+- [x] [Partition Labels](./C++/Medium/768. Partition Labels/)
 - [ ] Valid Parenthesis String
 
 ### 📂 Intervals
