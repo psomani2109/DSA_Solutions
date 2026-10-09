@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
         vector<int> pat(26, 0), window(26, 0), result;
+        if(p.size()>s.size())
+            return {};
         for(char ch:p)
         {
             pat[ch-'a']++;
