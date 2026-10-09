@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 100 (8.0%)
+- **Completed:** 9 / 100 (9.0%)
 
 ---
 
@@ -13,7 +13,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Two Sum](./C++/Easy/1. Two Sum/)
 - [x] [3Sum](./C++/Medium/15. 3Sum/)
 - [x] [Container With Most Water](./C++/Medium/11. Container With Most Water/)
-- [ ] Move Zeroes
+- [x] [Move Zeroes](./C++/Easy/283. Move Zeroes/)
 - [x] [Sort Colors](./C++/Medium/75. Sort Colors/)
 - [ ] Product of Array Except Self
 - [ ] Next Permutation
