@@ -1,6 +1,6 @@
 # 📝 567. Permutation in String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/permutation-in-string/?envType=problem-list-v2&envId=sliding-window)
+🔗 [Problem Link](https://leetcode.com/problems/permutation-in-string/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, Two Pointers, String, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 9.8 MB
 
 ---
 

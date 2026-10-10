@@ -2,6 +2,7 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
         vector<int> S(26, 0);
+        if (s1.size() > s2.size()) return false;
         for(char ch:s1)        
         {
             S[ch-'a']++;
