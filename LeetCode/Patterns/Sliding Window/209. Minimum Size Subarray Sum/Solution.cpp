@@ -16,8 +16,9 @@ public:
             {
                 len=right-left+1;
                 mini=min(mini, len);
-                sum-=nums[left];
                 left++;
+                sum-=nums[left-1];
+                
             }
         }
         return (mini==INT_MAX)? 0:mini;
