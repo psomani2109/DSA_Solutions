@@ -1,6 +1,6 @@
 # 📝 424. Longest Repeating Character Replacement (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/?envType=problem-list-v2&envId=sliding-window)
+🔗 [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
