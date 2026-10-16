@@ -1,6 +1,6 @@
 # 📝 713. Subarray Product Less Than K (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/subarray-product-less-than-k/?envType=problem-list-v2&envId=sliding-window)
+🔗 [Problem Link](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Binary Search, Sliding Window, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 44.6 MB
 
 ---
 
