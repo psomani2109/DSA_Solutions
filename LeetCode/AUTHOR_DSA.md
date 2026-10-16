@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 15 / 238 (6.3%)
+- **Completed:** 16 / 238 (6.7%)
 
 ---
 
@@ -157,7 +157,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [3Sum](./C++/Medium/15. 3Sum/)
 - [ ] 4Sum
 - [x] [Subarray Sum Equals K](./C++/Medium/560. Subarray Sum Equals K/)
-- [ ] Subarray Product Less Than K
+- [x] [Subarray Product Less Than K](./C++/Medium/713. Subarray Product Less Than K/)
 - [ ] Maximum Length of Subarray With Positive Product
 - [ ] Split Array into Consecutive Subsequences
 
