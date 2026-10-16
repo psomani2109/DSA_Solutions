@@ -8,7 +8,7 @@ public:
             
                 
             
-            while(product>k)
+            while(product>=k)
             {
                 product/=nums[l++];
             }
